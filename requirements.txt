@@ -1,0 +1,9 @@
+pymysql
+beautifulsoup4
+requests
+pandas
+pre-commit
+lxml
+html5lib
+multiprocess
+isodate
